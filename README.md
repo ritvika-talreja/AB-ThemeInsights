@@ -1,6 +1,8 @@
 # AB-ThemeInsights
 A/B Testing (also known as split testing) is a statistical method used to compare two versions of a product, feature, or process to determine which one performs better. It helps in making data-driven decisions by evaluating changes in user behavior, conversion rates, or other key metrics.
 
+![AB-ThemeInsights](AB-Testing.png)
+
 ## Overview 
 This project analyzes the effectiveness of light versus dark themes on a website through comprehensive A/B testing. The analysis examines various metrics including click-through rates, conversion rates, bounce rates, scroll depth, and session duration to determine if there are significant differences in user behavior between the two themes.
 
